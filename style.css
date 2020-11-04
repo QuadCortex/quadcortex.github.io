@@ -445,7 +445,7 @@ a.light_nohover_color_hover:hover {
 	transition: transform 0.25s ease-in-out 0s;
 }
 .converter_svg_graphic_poly {
-	fill: #c8c8c8;
+	fill: #248cace0;
 	stroke: none;
 	-webkit-transition: fill 0.25s ease-in-out 0s;
 	-moz-transition: fill 0.25s ease-in-out 0s;
