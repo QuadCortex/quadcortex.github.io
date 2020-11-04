@@ -2,7 +2,7 @@ body {
 	padding: 0;
 	margin: 0;
 	border: none;
-	color: #fd6969;
+	color: #d24242c2;
 	background-image: url(header.jpg) ;
 	font-family: Arial;
 	font-size: 16px;
@@ -243,7 +243,7 @@ a.light_underline {
 	color: #c8c8c8;
 }
 a.light_underline>span {
-	color: #30b194;
+	color: #4ebf8a;
 }
 a.light_nohover_color_hover {
 	color: #c8c8c8;
@@ -400,7 +400,7 @@ a.light_nohover_color_hover:hover {
 .converter {
 	display: block;
 	padding: 2em;
-	border: 0.25em dashed #c8c8c8;
+	border: 0.25em dashed #460404;
 	cursor: pointer;
 	text-align: center;
 	-webkit-transition: border-color 0.25s ease-in-out 0s;
@@ -468,7 +468,7 @@ a.light_nohover_color_hover:hover {
 .converter_info_line3 {
 	margin-top: 2em;
 	line-height: 1em;
-	color: #a0a0a0;
+	color: #a69f9fbf;
 }
 .converter_files_input {
 	display: none;
